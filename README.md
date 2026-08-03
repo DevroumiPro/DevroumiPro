@@ -1,184 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:6C63FF&height=220&section=header&text=Hi%20There,%20I'm%20Roumaissa%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Enthusiast%20•%20Creator&descAlignY=55&descSize=18"/>
+# Roumaissa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=🚀+Computer+Science+Graduate;💻+Full-Stack+Web+Developer;🤖+AI+%26+Machine+Learning+Explorer;🎨+Building+Beautiful%2C+Modern+Apps;📈+Sharing+My+Coding+Journey"/>
+**Full-stack developer, based in Algeria.**
+I build things end to end — backend logic, interfaces, the occasional AI feature that actually earns its place.
 
-<br><br>
+<br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="380"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00C896&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1a1a1a)
 
 </div>
 
 <br>
 
-## 🌟 About Me
+## What I do
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/OleksiiBulba/OleksiiBulba/master/gifs/Hi.gif" alt="wave" />
+I'm a Computer Science graduate who likes shipping over theorizing. Most of my work lives somewhere between web development and applied AI — right now that means building **RAHA**, a mental health platform, and a real estate app on the side.
 
-```javascript
-const roumaissa = {
-    location: "Algeria 🇩🇿",
-    education: "🎓 B.Sc. Computer Science",
-    role: "💻 Full-Stack Developer",
-    superpower: "Turning ☕ + 🐛 into 🚀 shipped products",
-
-    interests: [
-        "🌐 Web Development",
-        "🤖 Artificial Intelligence",
-        "🎨 UI/UX Design",
-        "🎥 Content Creation",
-        "💡 Tech Entrepreneurship"
-    ],
-
-    currentlyLearning: ["React", "Next.js", "Node.js", "AI Integration"],
-
-    currentlyBuilding: [
-        "🏡 Real Estate Platform",
-        "🧠 AI Web Applications",
-        "✨ My Personal Brand"
-    ],
-
-    funFact: "I debug faster than I make coffee ☕",
-
-    motto: "Keep learning. Keep building. Keep shipping. 🚀"
-};
-```
-
-<br clear="right"/>
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp&theme=dark"/>
-
-### 🏗️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark"/>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres&theme=dark"/>
-
-### 🛠️ Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,postman&theme=dark"/>
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### 🧠 RAHA — AI-Powered Mental Health Platform
-*Making mental healthcare accessible, one conversation at a time.*
+I don't chase every new framework. I learn what a project needs, then go deep on it.
 
 <br>
 
-| ✨ Feature | 💬 What it does |
-|---|---|
-| 🤖 **AI Chatbot** | Real-time supportive conversations powered by AI |
-| 👨‍⚕️ **Therapist Booking** | Seamless scheduling with licensed professionals |
-| 🔐 **Secure Authentication** | Privacy-first, encrypted user accounts |
-| 💳 **Online Payments** | Fast, secure session payments |
-| 📅 **Session Scheduling** | Smart calendar & reminders |
-| 📊 **Admin Dashboard** | Full platform analytics & management |
+## RAHA — the project I'm proudest of
+
+A mental health platform built to make therapy less of a hurdle to access. It has an AI chatbot for first-line support, real therapist booking, secure auth and payments, and an admin dashboard to run the whole thing.
+
+The hard part wasn't the tech — it was designing something that feels safe to use when someone's having a bad day. That constraint shaped almost every decision in the UI.
+
+`Live demo →` `Repo →` `Write-up →`
+*(links go here once you have them — this is the one section visitors actually read closely)*
 
 <br>
 
-`![Live Demo](#)` &nbsp;•&nbsp; `![Repository](#)` &nbsp;•&nbsp; `![Case Study](#)`
-> *Add your live demo, repo, and screenshot links here — this is your best selling point!*
+## Stack
 
-</div>
+I reach for these most:
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
+**Languages** — JavaScript, Python, Java, C++
+**Frontend** — React, Next.js
+**Backend** — Node.js, Express
+**Data** — PostgreSQL, Firebase, Supabase, MySQL
+**Tools** — Git, Figma, VS Code
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+## A little more human context
+
+- I'm learning Next.js properly right now, not just skimming the docs.
+- I make content on the side — coding tips, build logs, the messier parts of learning in public.
+- I'd rather ship something small and real than plan something big and theoretical.
 
 <br>
 
-<img src="https://github-readme-trophies.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&hide_title=true" height="165"/>
 
 </div>
 
----
+<br>
 
-## 📈 Contribution Activity
+## Reach me
 
-<div align="center">
+[LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Instagram](https://instagram.com/YOUR_ACCOUNT) · [TikTok](https://tiktok.com/@YOUR_ACCOUNT) · [Email](mailto:YOUR_EMAIL)
 
-[![Roumaissa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## 🎥 Content I Create
+<br>
 
 <div align="center">
-
-| 💻 Coding Tips | 🌍 Web Development | 🤖 AI Projects |
-|:---:|:---:|:---:|
-| **🎨 UI/UX Inspiration** | **🚀 Productivity** | **📚 Learning Journey** |
-
-</div>
-
----
-
-## 🌱 Currently Focused On
-
-<div align="center">
-
-![](https://img.shields.io/badge/Modern%20Web%20Apps-00C896?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20Integration-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/Personal%20Portfolio-FF6B6B?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-4ECDC4?style=for-the-badge)
-![](https://img.shields.io/badge/Real%20Projects-FFD93D?style=for-the-badge&logoColor=black)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Build Something Great
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://instagram.com/YOUR_ACCOUNT">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-<a href="https://tiktok.com/@YOUR_ACCOUNT">
-  <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="48"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<br><br>
-
-### ⭐ Thanks for stopping by — don't be a stranger!
-
-*"Code. Create. Inspire."* 💚
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C896&height=100&section=footer"/>
-
+<sub>Building slowly, on purpose.</sub>
 </div>
