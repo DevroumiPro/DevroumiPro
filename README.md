@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Roumaissa BMK
+# 👋 Hi, I'm Roumaissa 
 
 ### 💻 Full-Stack Developer • 🤖 AI Enthusiast • 📱 Content Creator
 
